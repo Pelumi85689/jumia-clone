@@ -1,0 +1,59 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+main{
+    height: 120vh;
+}
+
+.big-div{
+    width: 30%;
+}
+
+#alreadyHaveAccount span{
+    cursor: pointer;
+}
+.logo{
+    width: 50px;
+    margin-left: 160px;
+    margin-bottom: 20px;
+}
+h1{
+    font-weight: bold;
+    margin-left: 10px;
+    
+}
+p{
+    font-size: 11px;
+    color: gray;
+    margin-left: 15px;
+}
+.logo2{
+    width: 100px;
+    margin-left: 160px;
+    margin-bottom: 20px;
+}
+.btn1{
+    background-color: orange;
+    color: white;
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+.btn2{
+    background-color: blue;
+    color: white;
+    width: 400px;
+    height: 40px;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
+.btn3{
+    color: orange;
+}
